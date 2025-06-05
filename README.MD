@@ -11,3 +11,7 @@ This example demonstrates how to detect when an iOS/Android application transiti
 ### 002.component_to_image
 
 This example shows how to capture Compose UI components and convert them to bitmap images. It provides a reusable `ComponentToImageBitmap` composable that can wrap any content and return it as an `ImageBitmap`, which can then be used for various purposes like sharing, saving, or displaying screenshots within your application.
+
+### 003.di_by_koin
+
+This example demonstrates how to implement platform-specific dependency injection using Koin in Compose Multiplatform. It shows different approaches for injecting platform-specific implementations of common interfaces, including direct Kotlin implementation for iOS and integration with Swift code.
