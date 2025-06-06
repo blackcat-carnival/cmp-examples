@@ -15,3 +15,7 @@ This example shows how to capture Compose UI components and convert them to bitm
 ### 003.di_by_koin
 
 This example demonstrates how to implement platform-specific dependency injection using Koin in Compose Multiplatform. It shows different approaches for injecting platform-specific implementations of common interfaces, including direct Kotlin implementation for iOS and integration with Swift code.
+
+### 004.context
+
+This example demonstrates two different approaches for accessing platform-specific context in Compose Multiplatform. It shows how to use `LocalPlatformContext` from Coil3 and `LocalContext` on Android to implement platform-specific functionality (URL opening) while maintaining a clean common interface across platforms.
