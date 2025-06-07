@@ -19,3 +19,7 @@ This example demonstrates how to implement platform-specific dependency injectio
 ### 004.context
 
 This example demonstrates two different approaches for accessing platform-specific context in Compose Multiplatform. It shows how to use `LocalPlatformContext` from Coil3 and `LocalContext` on Android to implement platform-specific functionality (URL opening) while maintaining a clean common interface across platforms.
+
+### 005.musking
+
+This example demonstrates cutout drawing techniques (creating transparent areas) and spotlight drawing effects in Compose Multiplatform. It shows how to implement a `Spotlight` composable that can create transparent areas with custom shapes over content, useful for creating spotlight or highlight effects in tutorials or onboarding screens.
