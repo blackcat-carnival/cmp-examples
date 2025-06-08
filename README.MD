@@ -23,3 +23,8 @@ This example demonstrates two different approaches for accessing platform-specif
 ### 005.musking
 
 This example demonstrates cutout drawing techniques (creating transparent areas) and spotlight drawing effects in Compose Multiplatform. It shows how to implement a `Spotlight` composable that can create transparent areas with custom shapes over content, useful for creating spotlight or highlight effects in tutorials or onboarding screens.
+
+### 006.convert_image
+
+This project demonstrates
+how to convert ImageBitmap to and from Android's Bitmap and iOS's UIImage.
