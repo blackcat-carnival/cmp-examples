@@ -28,3 +28,8 @@ This example demonstrates cutout drawing techniques (creating transparent areas)
 
 This project demonstrates
 how to convert ImageBitmap to and from Android's Bitmap and iOS's UIImage.
+
+### 007.use_platform_ui
+
+This project is an iOS/Android application using Compose Multiplatform that demonstrates
+how to use iOS native UI.
